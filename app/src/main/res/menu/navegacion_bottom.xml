@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+
+        android:id="@+id/nave_formulario"
+        android:icon="@drawable/comentarios"
+        android:title="Comentarios"/>
+
+
+
+
+    <item
+        android:id="@+id/nave_registros"
+        android:icon="@drawable/qr"
+        android:title="QR"/>
+
+    <item
+        android:id="@+id/nave_inicio"
+        android:icon="@drawable/ic_add_location_black_24dp"
+        android:title="Mapa"/>
+
+
+
+
+
+</menu>

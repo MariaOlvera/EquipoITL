@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="title_activity_bottom_bar">BottomBar</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="tv1">Formulario de registro</string>
+    <string name="btn_foto">tomar foto</string>
+    <string name="tv2">Nombre:</string>
+    <string name="tv3">Apellido P.:</string>
+    <string name="tv4">Apellido M.:</string>
+    <string name="tv5">No. nomina:</string>
+    <string name="tv6">Telefono:</string>
+    <string name="tv7">Area:</string>
+    <string name="tv10">Detalles</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
